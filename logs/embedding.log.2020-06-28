@@ -1,0 +1,6 @@
+2020-06-28 14:07:34,250 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:89] - INFO: load tfidf model
+2020-06-28 14:07:59,622 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:91] - INFO: load w2v model
+2020-06-28 14:08:01,289 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:93] - INFO: load fast model
+2020-06-28 14:08:16,627 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:89] - INFO: load tfidf model
+2020-06-28 14:08:38,938 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:91] - INFO: load w2v model
+2020-06-28 14:08:40,322 - /Users/leonjiang/Downloads/Project/bookClassification/src/word2vec/embedding.py[line:93] - INFO: load fast model

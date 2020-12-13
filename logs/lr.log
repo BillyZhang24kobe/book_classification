@@ -1,0 +1,36 @@
+2020-06-22 23:06:07,130 - INFO - load tfidf model
+2020-06-22 23:06:36,361 - INFO - load w2v model
+2020-06-22 23:06:37,183 - INFO - load fast model
+2020-06-22 23:06:49,657 - INFO - load data
+2020-06-22 23:30:20,902 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:114] - INFO: model select with tfidf
+2020-06-23 00:11:29,118 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:114] - INFO: model select with tfidf
+2020-06-23 11:04:12,419 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:107] - INFO: model select with tfidf
+2020-06-23 11:05:49,450 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: tfidf_RandomForestClassifier_Train accuracy 0.29868745031892824
+2020-06-23 11:05:49,450 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: tfidf_RandomForestClassifier_ test accuracy 0.29505666010721315
+2020-06-23 11:05:49,450 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: tfidf_RandomForestClassifier_test recall 0.29505666010721315
+2020-06-23 11:05:49,451 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: tfidf_RandomForestClassifier_test F1_score 0.18162303917155187
+2020-06-23 11:07:32,078 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: tfidf_LogisticRegression_Train accuracy 0.7625584055526474
+2020-06-23 11:07:32,078 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: tfidf_LogisticRegression_ test accuracy 0.7262332903576033
+2020-06-23 11:07:32,078 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: tfidf_LogisticRegression_test recall 0.7262332903576033
+2020-06-23 11:07:32,078 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: tfidf_LogisticRegression_test F1_score 0.7165733364074286
+2020-06-23 11:07:32,830 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: tfidf_MultinomialNB_Train accuracy 0.6825306810911418
+2020-06-23 11:07:32,831 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: tfidf_MultinomialNB_ test accuracy 0.6661633982493045
+2020-06-23 11:07:32,831 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: tfidf_MultinomialNB_test recall 0.6661633982493045
+2020-06-23 11:07:32,831 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: tfidf_MultinomialNB_test F1_score 0.6482138589524504
+2020-06-23 22:44:22,638 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: tfidf_SVC_Train accuracy 0.9209125807014482
+2020-06-23 22:44:22,654 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: tfidf_SVC_ test accuracy 0.7653016217683382
+2020-06-23 22:44:22,654 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: tfidf_SVC_test recall 0.7653016217683382
+2020-06-23 22:44:22,654 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: tfidf_SVC_test F1_score 0.7587395261731988
+2020-06-23 23:53:40,313 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: tfidf_LGBMClassifier_Train accuracy 0.6952926578646348
+2020-06-23 23:53:40,314 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: tfidf_LGBMClassifier_ test accuracy 0.6698276447038067
+2020-06-23 23:53:40,314 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: tfidf_LGBMClassifier_test recall 0.6698276447038067
+2020-06-23 23:53:40,314 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: tfidf_LGBMClassifier_test F1_score 0.6585695317142677
+2020-06-23 23:54:17,407 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:111] - INFO: model select with word2vec
+2020-06-23 23:55:25,223 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: word2vec_RandomForestClassifier_Train accuracy 0.23812016518350493
+2020-06-23 23:55:25,224 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: word2vec_RandomForestClassifier_ test accuracy 0.23454570129605753
+2020-06-23 23:55:25,224 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: word2vec_RandomForestClassifier_test recall 0.23454570129605753
+2020-06-23 23:55:25,226 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: word2vec_RandomForestClassifier_test F1_score 0.10770772227482171
+2020-06-23 23:55:31,666 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:86] - INFO: word2vec_LogisticRegression_Train accuracy 0.23261889528684154
+2020-06-23 23:55:31,666 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:90] - INFO: word2vec_LogisticRegression_ test accuracy 0.22964307525276514
+2020-06-23 23:55:31,666 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:94] - INFO: word2vec_LogisticRegression_test recall 0.22964307525276514
+2020-06-23 23:55:31,666 - /Users/leonjiang/Downloads/Project/bookClassification/src/ML/models.py[line:98] - INFO: word2vec_LogisticRegression_test F1_score 0.08577438945151913
